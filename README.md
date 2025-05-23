@@ -1,6 +1,7 @@
 ## Critical Analysis of Synthetic Alzheimer’s Disease Dataset for Machine Learning
 
 **❗DISCLAIMER**
+
 This report analyses a generated synthetic dataset. No data used is real patient data. Neither the created classification model or represented data should be considered applicable to real Alzheimer’s Disease datasets. Instead, the purpose of this investigation is to determine the purpose and validity of synthetic datasets in epidemiological modelling, and their capability in allowing users to independently practice and demonstrate machine learning and data analysis.
 
 _<br>_

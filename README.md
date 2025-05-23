@@ -14,4 +14,13 @@ _<br>_
 
 _<br>_
 
+**📁INCLUDED**
+ - Main Report
+ - PowerBI Graphical Data Summary
+ - RStudio scripts and datafiles used to generate Point-Biserial analyses
+ - Cleaned dataset
+ - MATLAB project file
+
+_<br>_
+
 All work is my own, and any suggestions for improvement or iteration are welcome.
